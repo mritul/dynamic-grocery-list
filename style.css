@@ -1,0 +1,10 @@
+/* JS classes */
+
+/*Giving cursor pointer for mark as done text (col 3 of table)*/
+.done {
+  cursor: pointer;
+}
+
+.strike {
+  text-decoration: line-through;
+}
